@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tasha an aspiring frontend dev
-- 👀 I’m interested in fronted development and web development.
+- 👋 Hi, I’m Tasha an aspiring frontend dev.
+- 👀 I’m interested in frontend development and web development.
 - 🌱 I’m currently learning algorithms and data structures
 - 💞️ I’m looking to collaborate on frontend development and web devlopment anything that I could possibly do.
 - 📫 Reach me on [Twitter](https://twitter.com/tashasyar) 
